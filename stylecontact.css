@@ -1,0 +1,70 @@
+
+body {
+    margin:0;
+    padding:0;
+    background-image: url(World.jpg);
+    background-size: 100%; 
+    
+    
+	    
+    
+}
+
+ul {
+    
+    height:60px;
+    width:100%; 
+
+}
+
+li {
+    float:left;
+
+}
+
+ul a {
+    color:white;
+    padding-left:32px; 
+    padding-right:32px;
+    line-height:60px; 
+    font-size: 20px;
+    text-decoration:none;
+    margin-left: 20px;
+    margin-top: 20px;
+
+    
+}
+
+ul a:hover{
+    
+    color:silver;
+  
+}
+
+.lil {
+    color:white; 
+    float:left; 
+    border: 20px;
+    border-color: red;
+}
+
+.lil a:hover{
+    color:silver; 
+}
+
+.nav{
+    
+}
+
+.nav a{
+    margin-bottom: 10px;
+}
+
+footer {
+			 
+			background: #999999;	
+			padding: 5px 5px;
+			border-radius: 6px;
+                        margin-top: 625px;
+			
+		}

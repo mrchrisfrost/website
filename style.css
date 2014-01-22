@@ -11,7 +11,7 @@ body {font-family: sans-serif;
          padding: 20px;
 }
 
-.main {font-size: 14px; 
+.main {font-size: 18px; 
        text-align: left; 
         }
  
@@ -22,5 +22,6 @@ body {font-family: sans-serif;
         }
 
 .content {
-            
+         font-size: 14px; 
+         
         }
