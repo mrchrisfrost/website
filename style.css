@@ -1,0 +1,26 @@
+body {font-family: sans-serif; 
+      background-image: url(myrifle.jpg);
+      background-size: 100%; 
+	    
+}
+.header {font-weight: bold;
+         text-decoration: underline;
+         color: #999999;
+         text-align: center;
+         font-size: 36px; 
+         padding: 20px;
+}
+
+.main {font-size: 14px; 
+       text-align: left; 
+        }
+ 
+.footer {font-size: 10px; 
+         text-align: center; 
+         padding: 50px; 
+                 
+        }
+
+.content {
+            
+        }

@@ -1,17 +1,16 @@
 <html>
     <head>
-        <title>Home Page</title>
-        <link rel="stylesheet" href="stylehome.css">
+        <title>About Me</title>
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
-    <body bgcolor ="black"><h1><font color="white"><font-face="arial"> 
-            <center> Welcome to my Home Page</center></h1></body>
-                <br><p>
-    <center>Please see the about me page to learn more about myself to help
-        you in your decision in selecting me for your program.</center> </p>
-            <table>
+    <div class="header"> About Me
+       
+        </div>
+       
+        <p align="right"> <table>
             <tr>
-                <td><font color="white">
+                 <td><font color="white">
                     <a href="index.php"style="color: red">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
                 <td><font color="white"><a href="aboutme.php"style="color: red">About Me</a></td>
                 <td><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,15 +19,21 @@
                     <a href="http://www.facebook.com/chris.frost.3110"style="color: red">Facebook
                     </a></td>
                     <td><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;
-                        <a href="http://www.twitter.com/thechrisfrost""style="color: red">Twitter</a>
+                        <a href="http://www.twitter.com/thechrisfrost"style="color: red">Twitter</a>
                           
             </tr>
-        </table>
-    
-    
+   </table></p>
+   <div class="content">
+       <img src="me.jpg"/> <img src="james.jpg"height="377px"/>
+   </div>
+   <div class="main"><font color ="white">
+            This is the main text with CSS styling 
+        </div>
+        <div class="footer"> 
+            This is the footer
+        </div>
+        &copy;PATM Technologies 2014
         
-    
-    
-    
-    
+    </body>
+   
 </html>
