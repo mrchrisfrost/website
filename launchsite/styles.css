@@ -1,0 +1,74 @@
+body {
+			
+			font-family: 'Exo 2', sans-serif; 
+			font-family: 'Quando', serif;
+			
+		}
+		
+		header {
+		
+			background: #999999;	
+			padding: 20px 10px;
+			border-radius: 6px;
+			
+		}
+		
+		nav {
+			
+			background: #999999;	
+			padding: 10px 10px;
+			border-radius: 6px;
+			margin: 10px 10px 0px 0px; 
+		}
+		
+		nav ul {
+			
+			margin: 0px 0px 0px 0px;
+			padding: 0px 0px 0px 0px; 
+			
+		}
+		
+		nav ul li {
+			
+			// This code removes the bullet points and makes everything inline with each other. 
+			
+			list-style:none; 
+			display:inline; 
+			margin: 0px 10px; 
+			
+			// The margin statement creates spaces in-between the links
+			
+			
+		}
+		
+		nav ul a {
+			
+			color: #222222; 
+			font-weight:bold; 
+			text-decoration:none; 
+			
+			
+		}
+		
+		
+		nav ul li a:hover {
+			
+			color: #424242; 
+			 
+			
+		}
+		
+		section {
+			
+			min-height: 650px;
+			padding: 10px 10px 10px 10px;
+			
+		}
+		
+		footer {
+			
+			background: #999999;	
+			padding: 10px 10px;
+			border-radius: 6px;
+			
+		}
